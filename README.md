@@ -9,3 +9,5 @@ import pymunk.pygame_util
 from pymunk import Vec2d
 import numpy as np
 import pygame
+
+Video to explain this project: https://www.youtube.com/watch?v=F2htaS_5HYc
